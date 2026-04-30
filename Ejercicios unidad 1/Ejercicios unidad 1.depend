@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1776133298 source:c:\users\usuario\documents\trabajos\topicos de programacion\ejercicios unidad 1\vector.c
+	"vector.h"
+	<stdio.h>
+	<stdlib.h>
+
+1776133290 c:\users\usuario\documents\trabajos\topicos de programacion\ejercicios unidad 1\vector.h
+
+1776977387 source:c:\users\usuario\documents\trabajos\topicos de programacion\ejercicios unidad 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vector.h"
+	"cadena.h"
+	"matriz.h"
+
+1776229104 source:c:\users\usuario\documents\trabajos\topicos de programacion\ejercicios unidad 1\cadena.c
+	<stddef.h>
+	"cadena.h"
+
+1776228772 c:\users\usuario\documents\trabajos\topicos de programacion\ejercicios unidad 1\cadena.h
+
+1776977422 source:c:\users\usuario\documents\trabajos\topicos de programacion\ejercicios unidad 1\matriz.c
+	"matriz.h"
+	<stdio.h>
+
+1777519010 c:\users\usuario\documents\trabajos\topicos de programacion\ejercicios unidad 1\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
