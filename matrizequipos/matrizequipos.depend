@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1778007341 source:c:\users\laboratorios\desktop\matrizequipos\main.c
+	<stdio.h>
+	<stdlib.h>
+
